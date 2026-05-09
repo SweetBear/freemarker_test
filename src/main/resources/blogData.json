@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "SpringBoot入门教程",
+    "author": "张三",
+    "publishTime": "2026-05-01",
+    "category": "后端开发",
+    "content": "SpringBoot是一个快速开发框架，简化了Spring应用的初始搭建和开发过程。它提供了自动配置、起步依赖等特性，让开发者能快速创建独立运行的Spring应用。本文将介绍SpringBoot的核心概念和基本用法，帮助初学者快速上手。",
+    "readCount": 0
+  },
+  {
+    "id": 2,
+    "title": "Freemarker模板使用技巧",
+    "author": "李四",
+    "publishTime": "2026-05-02",
+    "category": "前端模板",
+    "content": "Freemarker是一款模板引擎，可用于生成HTML、XML等静态文件，结合SpringBoot使用便捷高效。它支持条件判断、循环遍历、宏定义等功能，能够将数据模型与模板分离，实现页面静态化。本文分享Freemarker在实际项目中的使用技巧。",
+    "readCount": 0
+  },
+  {
+    "id": 3,
+    "title": "JSON数据管理最佳实践",
+    "author": "王五",
+    "publishTime": "2026-05-03",
+    "category": "数据处理",
+    "content": "在小型项目中，使用JSON文件管理静态数据，无需数据库，简化开发流程，提高效率。JSON格式轻量、易读、跨平台，适合作为配置数据、测试数据的存储方案。本文探讨如何利用JSON文件高效管理项目中的静态数据。",
+    "readCount": 0
+  }
+]

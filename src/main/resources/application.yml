@@ -1,0 +1,18 @@
+server:
+  port: 8080
+
+spring:
+  freemarker:
+    template-loader-path: classpath:/templates/
+    suffix: .ftl
+    charset: UTF-8
+    content-type: text/html
+    cache: false
+  data:
+    mongodb:
+      host: 127.0.0.1
+      port: 27017
+      username: root
+      password: qwertyuiop
+      authentication-database: admin
+      database: freemarker_test
